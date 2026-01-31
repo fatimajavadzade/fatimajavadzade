@@ -38,10 +38,13 @@
 
 ---
 
-### 🌐 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/fatima-javadzade-455bb2318/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatima-javadzade-455bb2318/" target="_blank" style="margin-right:10px;"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://portfolio-one-rho-ssr2o3hwht.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor&logoColor=white"/>
   </a>
 </p>
 
