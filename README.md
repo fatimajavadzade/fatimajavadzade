@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://portfolio-one-rho-ssr2o3hwht.vercel.app/" target="_blank">
+  <a href="https://fatimajavadzade.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor&logoColor=white"/>
   </a>
 </p>
