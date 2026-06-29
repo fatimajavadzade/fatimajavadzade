@@ -62,8 +62,8 @@ A full-featured e-commerce platform developed for **NoteTech**, including a resp
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- <a href="https://fatimajavadzade.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor&logoColor=white"/> -->
+<a href="https://fatimajavadzade.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor&logoColor=white"/>
 </a>
 
 </p>
